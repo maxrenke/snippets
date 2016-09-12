@@ -16,8 +16,6 @@ Some attempt at commenting was made. The following a is a list of these files, a
 
 **sort-ints.c** - various sorting algorithms including counting, radix, quick, insertion (system quick sort is stdlib quick sort)
 
-**trie.c** - a simple trie for doing quick lookups on ASCII strings.
-
 **tsort.c** - out of context depth first search (DFS) to impelement topological search
 
 **union.c** - implementation of union-find data structure
